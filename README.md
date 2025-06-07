@@ -47,5 +47,3 @@ We also analyzed:
 - The effect of `k` in kNN
 - The effect of `C` (regularization strength) in Logistic Regression
 
-## 📂 Repository Structure
-
